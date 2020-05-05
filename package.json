@@ -1,0 +1,10 @@
+{
+  "name": "ts-utility-types-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Matthew Farley <matthewthomasfarley@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^3.8.3"
+  }
+}
